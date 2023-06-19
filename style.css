@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, sans-serif;
+  line-height: 1.5;
+  max-width: 70ch;
+  background-color: hsl(40,50%,90%);
+  color: hsl(0,90%,10%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+}
+
+.recipe > p {
+  font-style: italic;
+}
+
+.recipe > li {
+  font-size: 1.1rem;
+}
